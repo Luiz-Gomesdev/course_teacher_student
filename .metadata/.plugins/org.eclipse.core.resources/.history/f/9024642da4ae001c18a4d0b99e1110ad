@@ -1,0 +1,9 @@
+package br.com.luiz.curso.entities;
+
+public class Aluno {
+	
+	private String nome;
+	private String matricula;
+	private double[] notas;
+
+}

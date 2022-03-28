@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\lgome\Desktop\JAVA\EXERCÍCIOS LOIANE\8 - Ex. Curso e Professor\.metadata\.plugins\org.eclipse.jdt.core
+3729101479.index
+760091825.index
+1865797976.index
